@@ -1,0 +1,137 @@
+{
+  "columnNames": [
+    "date",
+    "word",
+    "translation",
+    "examples of usage",
+    "definition"
+  ],
+  "records": [
+    {
+      "date": {
+        "year": 2018,
+        "month": 10,
+        "dayOfMonth": 28,
+        "hourOfDay": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "word": "jocular",
+      "translation": "шутливый",
+      "examplesOfUsage": "\"she sounded in a jocular mood\"",
+      "definition": "fond of or characterized by joking; humorous or playful"
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 10,
+        "dayOfMonth": 29,
+        "hourOfDay": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "word": "retaliate",
+      "translation": "мстить",
+      "examplesOfUsage": "\"the blow stung and she retaliated immediately\"",
+      "definition": "make an attack or assault in return for a similar attack"
+    },
+    {
+      "date": {
+        "year": 2018,
+        "month": 10,
+        "dayOfMonth": 30,
+        "hourOfDay": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "word": "cranky",
+      "translation": "капризный",
+      "examplesOfUsage": "\"he was bored and cranky after eight hours of working\"",
+      "definition": "ill-tempered; irritable"
+    },
+    {
+      "date": {
+        "year": 2019,
+        "month": 0,
+        "dayOfMonth": 17,
+        "hourOfDay": 18,
+        "minute": 0,
+        "second": 0
+      },
+      "word": "uncouth",
+      "translation": "неотесанный",
+      "examplesOfUsage": "\"he is unwashed, uncouth, and drunk most of the time\"",
+      "definition": "(of a person or their appearance or behavior) lacking good manners, refinement, or grace"
+    },
+    {
+      "date": {
+        "year": 2019,
+        "month": 0,
+        "dayOfMonth": 20,
+        "hourOfDay": 21,
+        "minute": 0,
+        "second": 0
+      },
+      "word": "zeal",
+      "translation": "рвение",
+      "examplesOfUsage": "\"his zeal for privatization\"",
+      "definition": "great energy or enthusiasm in pursuit of a cause or an objective"
+    },
+    {
+      "date": {
+        "year": 2019,
+        "month": 0,
+        "dayOfMonth": 21,
+        "hourOfDay": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "word": "rekindle",
+      "translation": "возродить",
+      "examplesOfUsage": "\"Just as accepting gifts from strangers or bringing home found objects were regarded as dangerous, so too was lending, especially money or embers from the stove to rekindle a fire.\"",
+      "definition": "relight (a fire)"
+    },
+    {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "dayOfMonth": 12,
+        "hourOfDay": 18,
+        "minute": 0,
+        "second": 0
+      },
+      "word": "malformed",
+      "translation": "бесформенный",
+      "examplesOfUsage": "\"her ribs are malformed\"",
+      "definition": "(of a person or part of the body) abnormally formed; misshapen"
+    },
+    {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "dayOfMonth": 12,
+        "hourOfDay": 21,
+        "minute": 0,
+        "second": 0
+      },
+      "word": "sprawl",
+      "translation": "развалиться, растягиваться",
+      "examplesOfUsage": "\"Two figures lay sprawled on the Equestrian grass, talking and laughing merrily\"",
+      "definition": "sit, lie, or fall with one\u0027s arms and legs spread out in an ungainly or awkward way"
+    },
+    {
+      "date": {
+        "year": 2019,
+        "month": 1,
+        "dayOfMonth": 13,
+        "hourOfDay": 0,
+        "minute": 0,
+        "second": 0
+      },
+      "word": "discern",
+      "translation": "различать, разглядеть, распознавать",
+      "examplesOfUsage": "\"...who’d ended up here through no mechanism he or anyone else had yet been able to discern...\"",
+      "definition": "perceive or recognize (something)"
+    }
+  ]
+}
